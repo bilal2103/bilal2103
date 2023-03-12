@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bilal2103
 - 👀 I’m interested in Problem solving.
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on C/C++/python/html problems.
+- 💞️ I’m looking to collaborate on C/C++/C# problems.
 - 📫 How to reach me bilalhassan2103@gmail.com
 
 <!---
